@@ -1,6 +1,6 @@
 # NameEnchantPMMP
 ```php
-public const ENCHANTMENT_ARROWDAMAGE = "enchantment.arrowDamage";
+	public const ENCHANTMENT_ARROWDAMAGE = "enchantment.arrowDamage";
 	public const ENCHANTMENT_ARROWFIRE = "enchantment.arrowFire";
 	public const ENCHANTMENT_ARROWINFINITE = "enchantment.arrowInfinite";
 	public const ENCHANTMENT_ARROWKNOCKBACK = "enchantment.arrowKnockback";
